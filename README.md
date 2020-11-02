@@ -1,11 +1,17 @@
-**THIS IS WORK IN PROGRESS**
-
-# Deep Learning Tutorial
+# Deep Learning for Text Mining Tutorial
 This tutorial provides a brief introduction into the application of Artificial Neural Networks for classification tasks.  
 
 
 ## Setup
 ### The easy way
+```bash
+git clone https://github.com/julian-risch/julian-risch-DL4TM.git
+cd DL_tutorial
+chmod +x init/init.sh
+./init/
+source venv/bin/activate
+jupyter notebook'''
+
 When you are on linux, there is an init bash script at `init/init.sh` you can run. Set the `--no-venv` flag if you don't want to use a virtual environment. This script essentially (should) take care of the following two subsections for you.
 
 ### Install dependencies
