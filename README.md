@@ -5,7 +5,7 @@ This tutorial provides a brief introduction into the application of Artificial N
 ## Setup
 ### The easy way
 ```bash
-git clone https://github.com/julian-risch/julian-risch-DL4TM.git
+git clone https://github.com/julian-risch/DL4TM.git
 cd DL_tutorial
 chmod +x init/init.sh
 ./init/
