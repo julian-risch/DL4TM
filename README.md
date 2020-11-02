@@ -2,6 +2,8 @@
 This tutorial provides a brief introduction into the application of Artificial Neural Networks for classification tasks.  
 
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julian-risch/DL4TM/blob/master/DLTutorial.ipynb)
+
 ## Setup
 ### The easy way
 ```bash
