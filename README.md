@@ -13,6 +13,7 @@ chmod +x init/init.sh
 ./init/init.sh
 source venv/bin/activate
 jupyter notebook
+```
 
 When you are on linux, there is an init bash script at `init/init.sh` you can run. Set the `--no-venv` flag if you don't want to use a virtual environment. This script essentially (should) take care of the following two subsections for you.
 
