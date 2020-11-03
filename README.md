@@ -2,7 +2,11 @@
 This tutorial provides a brief introduction into the application of Artificial Neural Networks for classification tasks.  
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julian-risch/DL4TM/blob/master/DLTutorial.ipynb)
+Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julian-risch/DL4TM/blob/master/DLTutorial.ipynb)
+
+Example 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julian-risch/DL4TM/blob/master/Example%201%20-%20IMDB%20Sentiment%20Classification.ipynb)
+
+Example 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julian-risch/DL4TM/blob/master/Example%202%20-%20Boston%20Housing%20Price%20Regression.ipynb)
 
 ## Setup
 ### The easy way
