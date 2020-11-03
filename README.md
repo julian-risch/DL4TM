@@ -8,6 +8,7 @@ This tutorial provides a brief introduction into the application of Artificial N
 ### The easy way
 If you would like to automatically install dependencies within a virtual environment, make sure that ```virtualenv``` is installed (```pip install virtualenv```).
 ```bash
+pip install virtualenv
 git clone https://github.com/julian-risch/DL4TM.git
 cd DL_tutorial
 chmod +x init/init.sh
